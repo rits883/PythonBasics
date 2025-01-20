@@ -5,5 +5,5 @@ def greet(name):
 
 
 
- def itsWrong() 
+  def itsWrong() 
     print("In correct method syntax")
