@@ -6,8 +6,8 @@ def greet(name):
 
 
   def method() 
-    print("In correct method  syntax")
-
+    print(" Method 1 in correct method  syntax")
+ 
   def itsWrong() 
     print("In correct method  syntax")
 
